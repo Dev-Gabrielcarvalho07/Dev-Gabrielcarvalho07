@@ -1,30 +1,18 @@
 <!--
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║   README • Gabriel Carvalho  —  @Dev-Gabrielcarvalho07                     ║
-║   Tema: NEXUS // JARVIS // Cyberpunk   ·   Base: #1c2541 + Ciano           ║
+║   Tema: JARVIS // Cyberpunk   ·   Base: #1c2541 + Ciano                    ║
 ║   Basta copiar este arquivo para o repositório com o mesmo nome do seu     ║
 ║   usuário: Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07                     ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ======================= BANNER / BOOT DO SISTEMA ======================= -->
+<!-- ======================= BANNER PRINCIPAL ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,50:1c2541,100:5bc0be&text=NEXUS%20SYSTEM&fontColor=e0fbfc&fontSize=58&fontAlignY=38&desc=Back-End%20Developer%20//%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,50:1c2541,100:5bc0be&text=Gabriel%20Carvalho&fontColor=e0fbfc&fontSize=56&fontAlignY=38&desc=Back-End%20Developer%20//%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
 
 </div>
-
-<!-- Sequência de inicialização (efeito boot) -->
-```ansi
-[0;36m╭──────────────────────────────────────────────────────────────╮
-│ [0;32m>[0;36m  BOOTING NEXUS CORE v4.8 ................. [0;32m[ OK ][0;36m       │
-│ [0;32m>[0;36m  Carregando módulos de back-end ......... [0;32m[ OK ][0;36m       │
-│ [0;32m>[0;36m  Conectando ao PostgreSQL ............... [0;32m[ OK ][0;36m       │
-│ [0;32m>[0;36m  Inicializando Spring Context .......... [0;32m[ OK ][0;36m       │
-│ [0;32m>[0;36m  Perfil carregado: [0;37mGabriel Carvalho[0;36m         [0;32m[ OK ][0;36m       │
-│ [0;32m>[0;36m  Status: [0;33mONLINE[0;36m ·  Stack: [0;33mJava · Spring · SQL[0;36m         │
-╰──────────────────────────────────────────────────────────────╯
-```
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <div align="center">
@@ -77,19 +65,11 @@ usuario:
   <img src="https://img.shields.io/badge/Java-1c2541?style=for-the-badge&logo=openjdk&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/Spring_Boot-1c2541?style=for-the-badge&logo=springboot&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/PostgreSQL-1c2541?style=for-the-badge&logo=postgresql&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Python-1c2541?style=for-the-badge&logo=python&logoColor=6fffe9"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1c2541?style=for-the-badge&logo=typescript&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/JavaScript-1c2541?style=for-the-badge&logo=javascript&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Angular-1c2541?style=for-the-badge&logo=angular&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Next.js-1c2541?style=for-the-badge&logo=nextdotjs&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Node.js-1c2541?style=for-the-badge&logo=nodedotjs&logoColor=6fffe9"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Supabase-1c2541?style=for-the-badge&logo=supabase&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Hibernate-1c2541?style=for-the-badge&logo=hibernate&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/REST_API-1c2541?style=for-the-badge&logo=fastapi&logoColor=6fffe9"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1c2541?style=for-the-badge&logo=javascript&logoColor=6fffe9"/>
+  <img src="https://img.shields.io/badge/React-1c2541?style=for-the-badge&logo=react&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/HTML5-1c2541?style=for-the-badge&logo=html5&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/CSS3-1c2541?style=for-the-badge&logo=css3&logoColor=6fffe9"/>
 </p>
@@ -98,12 +78,10 @@ usuario:
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-1c2541?style=for-the-badge&logo=intellijidea&logoColor=6fffe9"/>
+  <img src="https://img.shields.io/badge/NetBeans-1c2541?style=for-the-badge&logo=apachenetbeanside&logoColor=6fffe9"/>
+  <img src="https://img.shields.io/badge/VS_Code-1c2541?style=for-the-badge&logo=visualstudiocode&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/Git-1c2541?style=for-the-badge&logo=git&logoColor=6fffe9"/>
   <img src="https://img.shields.io/badge/GitHub-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Maven-1c2541?style=for-the-badge&logo=apachemaven&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Insomnia-1c2541?style=for-the-badge&logo=insomnia&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/VS_Code-1c2541?style=for-the-badge&logo=visualstudiocode&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Figma-1c2541?style=for-the-badge&logo=figma&logoColor=6fffe9"/>
 </p>
 
 </div>
@@ -145,33 +123,10 @@ usuario:
 
 <br/>
 
-<!-- ======================= OBJETIVOS (TERMINAL) ======================= -->
-<div align="center">
-
-## `05` ┃ OBJETIVOS ATUAIS
-
-</div>
-
-```bash
-gabriel@nexus:~$ cat objetivos_2026.log
-
-[ ▓▓▓▓▓▓▓▓░░ 80% ]  Dominar Java & Programação Orientada a Objetos
-[ ▓▓▓▓▓▓▓░░░ 70% ]  Aprofundar em Spring Boot & APIs REST
-[ ▓▓▓▓▓▓░░░░ 60% ]  SQL avançado & modelagem de dados
-[ ▓▓▓▓▓░░░░░ 55% ]  Explorar testes automatizados & boas práticas
-[ ▓▓▓▓░░░░░░ 45% ]  Construir portfólio com projetos reais
-[ ▓▓▓░░░░░░░ 30% ]  Conquistar a primeira vaga (estágio / júnior)
-
-gabriel@nexus:~$ sudo ./run --mission "virar dev back-end" &
->>> processo iniciado · PID 2026 · rodando em segundo plano... 🚀
-```
-
-<br/>
-
 <!-- ======================= GITHUB STATS ======================= -->
 <div align="center">
 
-## `06` ┃ MÉTRICAS DO SISTEMA
+## `05` ┃ MÉTRICAS DO SISTEMA
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Gabrielcarvalho07&show_icons=true&hide_border=true&count_private=true&title_color=6fffe9&icon_color=5bc0be&text_color=c5f6fa&bg_color=1c2541" alt="stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Gabrielcarvalho07&layout=compact&hide_border=true&langs_count=8&title_color=6fffe9&text_color=c5f6fa&bg_color=1c2541" alt="top langs"/>
@@ -189,7 +144,7 @@ gabriel@nexus:~$ sudo ./run --mission "virar dev back-end" &
 <!-- ======================= TROPHIES ======================= -->
 <div align="center">
 
-## `07` ┃ CONQUISTAS
+## `06` ┃ CONQUISTAS
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dev-Gabrielcarvalho07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
@@ -198,7 +153,7 @@ gabriel@nexus:~$ sudo ./run --mission "virar dev back-end" &
 <!-- ======================= SNAKE ANIMATION ======================= -->
 <div align="center">
 
-## `08` ┃ CONTRIBUTION SNAKE
+## `07` ┃ CONTRIBUTION SNAKE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake-dark.svg" />
@@ -215,7 +170,7 @@ gabriel@nexus:~$ sudo ./run --mission "virar dev back-end" &
 <!-- ======================= REDES SOCIAIS ======================= -->
 <div align="center">
 
-## `09` ┃ CANAIS DE CONEXÃO
+## `08` ┃ CANAIS DE CONEXÃO
 
 <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-1c2541?style=for-the-badge&logo=linkedin&logoColor=6fffe9"/>
@@ -245,7 +200,5 @@ gabriel@nexus:~$ sudo ./run --mission "virar dev back-end" &
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5bc0be,50:1c2541,100:0b132b&reversal=true&fontColor=e0fbfc"/>
-
-<sub>⚡ Desenvolvido com café, curiosidade e muito <code>git commit</code> · © 2026 Gabriel Carvalho</sub>
 
 </div>
