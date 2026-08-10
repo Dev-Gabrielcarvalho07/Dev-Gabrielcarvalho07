@@ -1,204 +1,37 @@
-<!--
-╔═══════════════════════════════════════════════════════════════════════════╗
-║   README • Gabriel Carvalho  —  @Dev-Gabrielcarvalho07                     ║
-║   Tema: JARVIS // Cyberpunk   ·   Base: #1c2541 + Ciano                    ║
-║   Basta copiar este arquivo para o repositório com o mesmo nome do seu     ║
-║   usuário: Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07                     ║
-╚═══════════════════════════════════════════════════════════════════════════╝
--->
+# .github/workflows/snake.yml
+# Gera a animacao da "cobrinha" de contribuicoes e publica na branch `output`.
+name: Generate Snake Animation
 
-<!-- ======================= BANNER PRINCIPAL ======================= -->
-<div align="center">
+on:
+  schedule:
+    # Roda a cada 12 horas (atualiza a cobrinha automaticamente)
+    - cron: "0 */12 * * *"
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+  # Roda sempre que houver push na branch principal
+  push:
+    branches:
+      - main
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,50:1c2541,100:5bc0be&text=Gabriel%20Carvalho&fontColor=e0fbfc&fontSize=56&fontAlignY=38&desc=Back-End%20Developer%20//%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake game from github contribution grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Dev-Gabrielcarvalho07
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=6fffe9&color_dots=1c2541,3a506b,5bc0be,6fffe9,e0fbfc
 
-</div>
-
-<!-- ======================= TYPING ANIMATION ======================= -->
-<div align="center">
-
-<a href="https://github.com/Dev-Gabrielcarvalho07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=6FFFE9&center=true&vCenter=true&width=760&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Back-End+Developer+em+forma%C3%A7%C3%A3o+%E2%80%94+Java+%2B+Spring+Boot;Foco+em+APIs+REST%2C+SQL+e+arquitetura+de+software;Bem-vindo+ao+meu+universo+de+c%C3%B3digo" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Dev-Gabrielcarvalho07&label=VISITANTES&color=5bc0be&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCO-BACK--END-6fffe9?style=for-the-badge&labelColor=1c2541" alt="foco"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STACK-JAVA%20%C2%B7%20SPRING-5bc0be?style=for-the-badge&labelColor=1c2541" alt="stack"/>
-
-</div>
-
-<!-- ======================= SOBRE MIM ======================= -->
-<div align="center">
-
-## `01` ┃ SOBRE MIM
-
-</div>
-
-```yaml
-usuario:
-  nome:        "Gabriel Carvalho de Oliveira"
-  papel:       "Back-End Developer (em formação)"
-  curso:       "Análise e Desenvolvimento de Sistemas · 3º período"
-  instituicao: "Faculdade SESI SENAI FATESG — Goiânia/GO"
-  foco:        ["Java", "Spring Boot", "SQL", "Arquitetura de Software"]
-  aprendizado: "mão na massa — aprendo construindo projetos reais"
-  buscando:    "primeira oportunidade — estágio ou júnior back-end"
-```
-
-> `>` Apaixonado por **arquitetura limpa**, **banco de dados** e por transformar
-> lógica em sistemas que funcionam de verdade. Já mergulhei em estruturas de dados,
-> modelagem de dados, design patterns e projetos integrativos full-stack. Sigo
-> aprofundando em **Java**, **Spring Boot** e **SQL**, construindo projetos reais. 🤖
-
-<br/>
-
-<!-- ======================= TECH STACK ======================= -->
-<div align="center">
-
-## `02` ┃ TECH STACK
-
-<p>
-  <img src="https://img.shields.io/badge/Java-1c2541?style=for-the-badge&logo=openjdk&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-1c2541?style=for-the-badge&logo=springboot&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1c2541?style=for-the-badge&logo=postgresql&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/REST_API-1c2541?style=for-the-badge&logo=fastapi&logoColor=6fffe9"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-1c2541?style=for-the-badge&logo=javascript&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/React-1c2541?style=for-the-badge&logo=react&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/HTML5-1c2541?style=for-the-badge&logo=html5&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/CSS3-1c2541?style=for-the-badge&logo=css3&logoColor=6fffe9"/>
-</p>
-
-## `03` ┃ FERRAMENTAS
-
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-1c2541?style=for-the-badge&logo=intellijidea&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/NetBeans-1c2541?style=for-the-badge&logo=apachenetbeanside&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/VS_Code-1c2541?style=for-the-badge&logo=visualstudiocode&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Git-1c2541?style=for-the-badge&logo=git&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/GitHub-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
-</p>
-
-</div>
-
-<br/>
-
-<!-- ======================= PROJETOS EM CARDS ======================= -->
-<div align="center">
-
-## `04` ┃ PROJETO EM DESTAQUE
-
-<table>
-<tr>
-<td valign="top">
-
-### 🚗 Oficina CarRepair — Back-End
-> API de gestão de oficina mecânica construída em **Spring Boot 3**
-> com **PostgreSQL**. Seis domínios de negócio (Cliente, Veículo,
-> Serviço, Mecânico, Usuário e Ordem de Serviço) sobre um padrão
-> rígido de camadas com **generics**, respostas **paginadas**,
-> tratamento de erros e documentação de arquitetura (DAS + ADRs).
-
-<p>
-  <img src="https://img.shields.io/badge/Java-1c2541?style=flat-square&logo=openjdk&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-1c2541?style=flat-square&logo=springboot&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1c2541?style=flat-square&logo=postgresql&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/REST_API-1c2541?style=flat-square&logo=fastapi&logoColor=6fffe9"/>
-</p>
-
-<a href="https://github.com/Dev-Gabrielcarvalho07/Oficina-CarRepair-BackEnd">
-<img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ======================= GITHUB STATS ======================= -->
-<div align="center">
-
-## `05` ┃ MÉTRICAS DO SISTEMA
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Gabrielcarvalho07&show_icons=true&hide_border=true&count_private=true&title_color=6fffe9&icon_color=5bc0be&text_color=c5f6fa&bg_color=1c2541" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Gabrielcarvalho07&layout=compact&hide_border=true&langs_count=8&title_color=6fffe9&text_color=c5f6fa&bg_color=1c2541" alt="top langs"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Dev-Gabrielcarvalho07&hide_border=true&background=1c2541&stroke=5bc0be&ring=6fffe9&fire=6fffe9&currStreakLabel=6fffe9&sideLabels=c5f6fa&currStreakNum=e0fbfc&sideNums=e0fbfc&dates=8395a7" alt="streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Gabrielcarvalho07&bg_color=1c2541&color=6fffe9&line=5bc0be&point=e0fbfc&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
-
-<!-- ======================= TROPHIES ======================= -->
-<div align="center">
-
-## `06` ┃ CONQUISTAS
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-Gabrielcarvalho07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-
-</div>
-
-<!-- ======================= SNAKE ANIMATION ======================= -->
-<div align="center">
-
-## `07` ┃ CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>⚙️ A cobrinha ganha vida assim que você ativar a GitHub Action <code>snake.yml</code> (instruções no final).</sub>
-
-</div>
-
-<br/>
-
-<!-- ======================= REDES SOCIAIS ======================= -->
-<div align="center">
-
-## `08` ┃ CANAIS DE CONEXÃO
-
-<a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-1c2541?style=for-the-badge&logo=linkedin&logoColor=6fffe9"/>
-</a>
-<a href="https://instagram.com/gabriel_carvalho_444">
-  <img src="https://img.shields.io/badge/Instagram-1c2541?style=for-the-badge&logo=instagram&logoColor=6fffe9"/>
-</a>
-<a href="mailto:gabrielcarvalhodeoliveirac9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1c2541?style=for-the-badge&logo=gmail&logoColor=6fffe9"/>
-</a>
-<a href="https://github.com/Dev-Gabrielcarvalho07">
-  <img src="https://img.shields.io/badge/GitHub-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ======================= FRASE / ASSINATURA ======================= -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=5BC0BE&center=true&vCenter=true&width=700&height=45&lines=%22O+c%C3%B3digo+%C3%A9+a+ponte+entre+a+ideia+e+a+realidade.%22;%22Aprender%2C+construir%2C+repetir.%22;Sistema+operante.+Pronto+para+o+pr%C3%B3ximo+commit." alt="quote"/>
-
-</div>
-
-<!-- ======================= RODAPÉ ======================= -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5bc0be,50:1c2541,100:0b132b&reversal=true&fontColor=e0fbfc"/>
-
-</div>
+      - name: Push snake animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
