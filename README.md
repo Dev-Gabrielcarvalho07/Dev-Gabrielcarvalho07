@@ -112,7 +112,7 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>⚙️ A cobrinha ganha vida após a GitHub Action <code>snake.yml</code> rodar pela primeira vez.</sub>
+
 
 </div>
 
