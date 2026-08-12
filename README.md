@@ -54,16 +54,12 @@
 > tratamento de erros e documentação de arquitetura (DAS + ADRs).
 
 <p>
-  <img src="https://img.shields.io/badge/Java-1c2541?style=flat-square&logo=openjdk&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-1c2541?style=flat-square&logo=springboot&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1c2541?style=flat-square&logo=postgresql&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/REST_API-1c2541?style=flat-square&logo=fastapi&logoColor=6fffe9"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" alt="stack do projeto"/>
 </p>
 
 <a href="https://github.com/Dev-Gabrielcarvalho07/Oficina-CarRepair-BackEnd">
 <img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
 </a>
-
 </td>
 </tr>
 </table>
