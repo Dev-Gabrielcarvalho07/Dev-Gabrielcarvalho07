@@ -108,18 +108,20 @@
 
 ## `06` ┃ CANAIS DE CONEXÃO
 
-<a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-1c2541?style=for-the-badge&logo=linkedin&logoColor=6fffe9"/>
-</a>
-<a href="https://instagram.com/gabriel_carvalho_444">
-  <img src="https://img.shields.io/badge/Instagram-1c2541?style=for-the-badge&logo=instagram&logoColor=6fffe9"/>
-</a>
-<a href="mailto:gabrielcarvalhodeoliveirac9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1c2541?style=for-the-badge&logo=gmail&logoColor=6fffe9"/>
-</a>
-<a href="https://github.com/Dev-Gabrielcarvalho07">
-  <img src="https://img.shields.io/badge/GitHub-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/gabriel_carvalho_444">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
+  </a>
+  <a href="mailto:gabrielcarvalhodeoliveirac9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
+  </a>
+  <a href="https://github.com/Dev-Gabrielcarvalho07">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
