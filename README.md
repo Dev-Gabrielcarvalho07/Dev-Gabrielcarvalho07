@@ -19,30 +19,13 @@
 <!-- ======================= TECH STACK ======================= -->
 <div align="center">
 
-## `01` ┃ TECH STACK
+## `01` ┃ Gabriel AI  Core
 
-<p>
-  <img src="https://img.shields.io/badge/Java-1c2541?style=for-the-badge&logo=openjdk&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-1c2541?style=for-the-badge&logo=springboot&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1c2541?style=for-the-badge&logo=postgresql&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/REST_API-1c2541?style=for-the-badge&logo=fastapi&logoColor=6fffe9"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-1c2541?style=for-the-badge&logo=javascript&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/React-1c2541?style=for-the-badge&logo=react&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/HTML5-1c2541?style=for-the-badge&logo=html5&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/CSS3-1c2541?style=for-the-badge&logo=css3&logoColor=6fffe9"/>
-</p>
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
 ## `02` ┃ FERRAMENTAS
 
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-1c2541?style=for-the-badge&logo=intellijidea&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/NetBeans-1c2541?style=for-the-badge&logo=apachenetbeanside&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/VS_Code-1c2541?style=for-the-badge&logo=visualstudiocode&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/Git-1c2541?style=for-the-badge&logo=git&logoColor=6fffe9"/>
-  <img src="https://img.shields.io/badge/GitHub-1c2541?style=for-the-badge&logo=github&logoColor=6fffe9"/>
-</p>
+p> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p> 
 
 </div>
 
