@@ -25,11 +25,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,html,css&theme=dark" alt="tech stack"/>
-</p>
-
-## `02` ┃ FERRAMENTAS
-
-<p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" alt="ferramentas"/>
 </p>
 
@@ -40,7 +35,7 @@
 <!-- ======================= PROJETOS EM CARDS ======================= -->
 <div align="center">
 
-## `03` ┃ PROJETO EM DESTAQUE
+## `03` ┃ PROJETOS EM DESTAQUE
 
 <table>
 <tr>
@@ -92,7 +87,7 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>⚙️ A cobrinha ganha vida após a GitHub Action <code>snake.yml</code> rodar pela primeira vez.</sub>
+
 
 </div>
 
