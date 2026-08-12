@@ -73,11 +73,6 @@
 
 ## `04` ┃ MÉTRICAS DO SISTEMA
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Gabrielcarvalho07&show_icons=true&hide_border=true&count_private=true&title_color=6fffe9&icon_color=5bc0be&text_color=c5f6fa&bg_color=1c2541" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Gabrielcarvalho07&layout=compact&hide_border=true&langs_count=8&title_color=6fffe9&text_color=c5f6fa&bg_color=1c2541" alt="top langs"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Dev-Gabrielcarvalho07&hide_border=true&background=1c2541&stroke=5bc0be&ring=6fffe9&fire=6fffe9&currStreakLabel=6fffe9&sideLabels=c5f6fa&currStreakNum=e0fbfc&sideNums=e0fbfc&dates=8395a7" alt="streak"/>
 
 <br/><br/>
