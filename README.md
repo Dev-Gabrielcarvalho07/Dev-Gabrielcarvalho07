@@ -10,7 +10,9 @@
 <!-- ======================= BANNER PRINCIPAL ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,50:1c2541,100:5bc0be&text=Gabriel%20Carvalho&fontColor=e0fbfc&fontSize=56&fontAlignY=38&desc=Back-End%20Developer%20//%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=60&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b132b,50:1c2541,100:5bc0be&text=Gabriel%20Carvalho&fontColor=e0fbfc&fontSize=56&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6FFFE9&center=true&vCenter=true&width=680&height=45&lines=WELCOME+TO+MY+CODE+UNIVERSE;SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%C2%B7+JAVA+%C2%B7+SQL" alt="subtitle typing"/>
 
 </div>
 
@@ -19,13 +21,17 @@
 <!-- ======================= TECH STACK ======================= -->
 <div align="center">
 
-## `01` ┃ Gabriel AI  Core
+## `01` ┃ TECH STACK
 
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,html,css&theme=dark" alt="tech stack"/>
+</p>
 
 ## `02` ┃ FERRAMENTAS
 
-p> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p> 
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" alt="ferramentas"/>
+</p>
 
 </div>
 
@@ -95,7 +101,7 @@ p> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-bad
   <img alt="snake animation" src="https://raw.githubusercontent.com/Dev-Gabrielcarvalho07/Dev-Gabrielcarvalho07/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
+<sub>⚙️ A cobrinha ganha vida após a GitHub Action <code>snake.yml</code> rodar pela primeira vez.</sub>
 
 </div>
 
@@ -128,4 +134,4 @@ p> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-bad
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5bc0be,50:1c2541,100:0b132b&reversal=true&fontColor=e0fbfc"/>
 
-</div>    
+</div>  
