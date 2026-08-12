@@ -25,6 +25,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,react,html,css&theme=dark" alt="tech stack"/>
+<p> 
+  
+## `01` | FERRAMENTAS
+<p> 
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" alt="ferramentas"/>
 </p>
 
